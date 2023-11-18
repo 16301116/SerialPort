@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arrow-repeat.svg</file>
+        <file>BYGD.svg</file>
+        <file>caret-right.svg</file>
+        <file>caret-right-fill.svg</file>
+        <file>PaperPlane.svg</file>
+        <file>setting.svg</file>
+        <file>uart-connect.svg</file>
+        <file>uart-disconnect.svg</file>
+        <file>通讯连接.svg</file>
+        <file>循环播放.svg</file>
+    </qresource>
+</RCC>
