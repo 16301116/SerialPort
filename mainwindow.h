@@ -30,6 +30,8 @@ public:
     void serialport_init();
     void readData();
     void Relay_Ctl(int);
+    void convertStringToHexString(const QString &str, QByteArray &byteData);
+    char convertCharToHex(char ch);
     int  Hallvalue  = 0;
     int  Prevalue   = 0;
     int  Deltavalue = 0;
